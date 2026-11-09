@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 290" role="img" aria-labelledby="t">
+  <title id="t">Caminho da água com limão no corpo: estômago, intestino, células e rins, com o sangue mantido em pH 7,35 a 7,45</title>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#12303b"/></marker>
+  </defs>
+  <rect width="880" height="290" rx="20" fill="#ffffff"/>
+  <g font-family="system-ui,Segoe UI,Arial,sans-serif" fill="#12303b" text-anchor="middle">
+    <rect x="20" y="40" width="140" height="110" rx="14" fill="#fff6c9" stroke="#d9b61c" stroke-width="3"/>
+    <rect x="190" y="40" width="140" height="110" rx="14" fill="#fde0d6" stroke="#e4572e" stroke-width="3"/>
+    <rect x="360" y="40" width="140" height="110" rx="14" fill="#e8f4fb" stroke="#2f6fb5" stroke-width="3"/>
+    <rect x="530" y="40" width="140" height="110" rx="14" fill="#e1f3ec" stroke="#1b7f79" stroke-width="3"/>
+    <rect x="700" y="40" width="140" height="110" rx="14" fill="#f6f1ff" stroke="#6b3e98" stroke-width="3"/>
+    <g font-size="16" font-weight="700">
+      <text x="90" y="68">Copo</text><text x="260" y="68">Estômago</text><text x="430" y="68">Intestino</text><text x="600" y="68">Células</text><text x="770" y="68">Rins</text>
+    </g>
+    <g font-size="14">
+      <text x="90" y="92">água + limão</text><text x="90" y="112">pH ≈ 2,5–3,5</text>
+      <text x="260" y="92">ácido gástrico</text><text x="260" y="112">pH ≈ 1,5–3,5</text>
+      <text x="430" y="92">o citrato é</text><text x="430" y="112">absorvido</text>
+      <text x="600" y="92">citrato é oxidado:</text><text x="600" y="112">consome H⁺ e gera</text><text x="600" y="132">HCO₃⁻ e CO₂</text>
+      <text x="770" y="92">ajustam a urina</text><text x="770" y="112">(pH 4,5 a 8)</text>
+    </g>
+    <g stroke="#12303b" stroke-width="3" fill="none">
+      <line x1="164" y1="95" x2="186" y2="95" marker-end="url(#ar)"/>
+      <line x1="334" y1="95" x2="356" y2="95" marker-end="url(#ar)"/>
+      <line x1="504" y1="95" x2="526" y2="95" marker-end="url(#ar)"/>
+      <line x1="674" y1="95" x2="696" y2="95" marker-end="url(#ar)"/>
+      <line x1="600" y1="154" x2="600" y2="186" stroke-dasharray="6 5" marker-end="url(#ar)"/>
+      <line x1="770" y1="154" x2="770" y2="186" stroke-dasharray="6 5" marker-end="url(#ar)"/>
+    </g>
+    <rect x="20" y="190" width="840" height="76" rx="14" fill="#e1f3ec" stroke="#1b7f79" stroke-width="3"/>
+    <text x="440" y="222" font-size="20" font-weight="700">Sangue: pH mantido em 7,35 a 7,45</text>
+    <text x="440" y="248" font-size="15">tampões, pulmões e rins corrigem qualquer desvio, antes e depois do limão</text>
+  </g>
+</svg>

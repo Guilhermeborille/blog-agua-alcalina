@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" role="img" aria-labelledby="t">
+  <title id="t">Molécula de água: geometria angular de 104,5 graus com cargas parciais</title>
+  <rect width="600" height="340" rx="20" fill="#f3f9fc"/>
+  <g font-family="system-ui,Segoe UI,Arial,sans-serif">
+    <line x1="300" y1="130" x2="197" y2="210" stroke="#12303b" stroke-width="9" stroke-linecap="round"/>
+    <line x1="300" y1="130" x2="403" y2="210" stroke="#12303b" stroke-width="9" stroke-linecap="round"/>
+    <path d="M244.65 172.85 A70 70 0 0 0 355.35 172.85" fill="none" stroke="#2f6fb5" stroke-width="3" stroke-dasharray="6 5"/>
+    <text x="300" y="224" text-anchor="middle" font-size="17" font-weight="700" fill="#2f6fb5">104,5°</text>
+    <circle cx="197" cy="210" r="30" fill="#fff" stroke="#12303b" stroke-width="4"/>
+    <circle cx="403" cy="210" r="30" fill="#fff" stroke="#12303b" stroke-width="4"/>
+    <text x="197" y="219" text-anchor="middle" font-size="26" font-weight="700" fill="#12303b">H</text>
+    <text x="403" y="219" text-anchor="middle" font-size="26" font-weight="700" fill="#12303b">H</text>
+    <circle cx="300" cy="130" r="48" fill="#e4572e" stroke="#12303b" stroke-width="4"/>
+    <text x="300" y="140" text-anchor="middle" font-size="30" font-weight="700" fill="#fff">O</text>
+    <!-- pares livres -->
+    <g fill="#12303b"><circle cx="261" cy="84" r="4.5"/><circle cx="279" cy="73" r="4.5"/><circle cx="339" cy="84" r="4.5"/><circle cx="321" cy="73" r="4.5"/></g>
+    <!-- cargas parciais -->
+    <text x="300" y="44" text-anchor="middle" font-size="30" font-weight="700" fill="#e4572e">δ⁻</text>
+    <text x="176" y="166" text-anchor="middle" font-size="26" font-weight="700" fill="#2f6fb5">δ⁺</text>
+    <text x="424" y="166" text-anchor="middle" font-size="26" font-weight="700" fill="#2f6fb5">δ⁺</text>
+    <text x="300" y="282" text-anchor="middle" font-size="16" font-weight="700" fill="#12303b">Duas ligações covalentes polares O–H (≈ 0,096 nm)</text>
+    <text x="300" y="306" text-anchor="middle" font-size="14" fill="#53666d">O oxigênio atrai mais os elétrons: polo negativo no O, positivo nos H</text>
+  </g>
+</svg>

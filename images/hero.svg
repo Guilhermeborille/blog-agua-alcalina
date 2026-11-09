@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="t">
+  <title id="t">Copo com água e uma fatia de limão, cercado por rótulos de química</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff6c9"/><stop offset="1" stop-color="#d9eefa"/></linearGradient>
+    <linearGradient id="wa" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c6e7f7"/><stop offset="1" stop-color="#72b8de"/></linearGradient>
+  </defs>
+  <rect width="640" height="420" rx="26" fill="url(#bg)"/>
+  <circle cx="80" cy="200" r="44" fill="#fff" opacity=".5"/>
+  <circle cx="575" cy="360" r="50" fill="#fff" opacity=".45"/>
+  <circle cx="140" cy="385" r="20" fill="#f6d444" opacity=".55"/>
+  <!-- copo -->
+  <path d="M190 110 L410 110 L384 350 Q380 375 355 375 L245 375 Q220 375 216 350 Z" fill="#fff" fill-opacity=".45" stroke="#12303b" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M197 170 L403 170 L384 350 Q380 375 355 375 L245 375 Q220 375 216 350 Z" fill="url(#wa)" opacity=".92"/>
+  <path d="M200 172 Q250 160 300 172 T400 172" fill="none" stroke="#fff" stroke-width="4" opacity=".7" stroke-linecap="round"/>
+  <g fill="none" stroke="#fff" stroke-width="3" opacity=".85">
+    <circle cx="255" cy="305" r="9"/><circle cx="305" cy="255" r="6"/><circle cx="335" cy="325" r="11"/><circle cx="285" cy="215" r="5"/><circle cx="350" cy="265" r="7"/>
+  </g>
+  <path d="M215 130 L232 330" stroke="#fff" stroke-width="6" stroke-linecap="round" opacity=".6"/>
+  <!-- fatia de limão -->
+  <g transform="translate(415 112)">
+    <circle r="64" fill="#f6d444" stroke="#d9b61c" stroke-width="5"/>
+    <circle r="52" fill="#fff2a6"/>
+    <g stroke="#f6d444" stroke-width="5" stroke-linecap="round">
+      <line x1="0" y1="0" x2="50" y2="0"/><line x1="0" y1="0" x2="-50" y2="0"/>
+      <line x1="0" y1="0" x2="0" y2="50"/><line x1="0" y1="0" x2="0" y2="-50"/>
+      <line x1="0" y1="0" x2="35" y2="35"/><line x1="0" y1="0" x2="-35" y2="35"/>
+      <line x1="0" y1="0" x2="35" y2="-35"/><line x1="0" y1="0" x2="-35" y2="-35"/>
+    </g>
+    <circle r="6" fill="#fff9d6"/>
+  </g>
+  <!-- rótulos -->
+  <g font-family="system-ui,Segoe UI,Arial,sans-serif" fill="#12303b" text-anchor="middle">
+    <rect x="28" y="268" width="140" height="58" rx="29" fill="#fff" stroke="#12303b" stroke-width="3"/>
+    <text x="98" y="294" font-size="19" font-weight="700">C₆H₈O₇</text>
+    <text x="98" y="314" font-size="13">ácido cítrico</text>
+    <rect x="455" y="262" width="160" height="58" rx="29" fill="#fff" stroke="#12303b" stroke-width="3"/>
+    <text x="535" y="288" font-size="15" font-weight="700">pH do sangue</text>
+    <text x="535" y="309" font-size="15">7,35 – 7,45</text>
+    <rect x="28" y="58" width="112" height="58" rx="29" fill="#fff" stroke="#12303b" stroke-width="3"/>
+    <text x="84" y="84" font-size="19" font-weight="700">H₂O</text>
+    <text x="84" y="104" font-size="13">água</text>
+  </g>
+</svg>

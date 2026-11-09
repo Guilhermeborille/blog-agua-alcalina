@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" role="img" aria-labelledby="t">
+  <title id="t">Três moléculas de água unidas por pontes de hidrogênio tracejadas</title>
+  <defs>
+    <g id="w">
+      <line x1="0" y1="0" x2="-41" y2="32" stroke="#12303b" stroke-width="5" stroke-linecap="round"/>
+      <line x1="0" y1="0" x2="41" y2="32" stroke="#12303b" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="-41" cy="32" r="13" fill="#fff" stroke="#12303b" stroke-width="3"/>
+      <circle cx="41" cy="32" r="13" fill="#fff" stroke="#12303b" stroke-width="3"/>
+      <circle r="22" fill="#e4572e" stroke="#12303b" stroke-width="3"/>
+      <text y="7" text-anchor="middle" font-size="19" font-weight="700" fill="#fff" font-family="system-ui,Segoe UI,Arial,sans-serif">O</text>
+      <text x="-41" y="37" text-anchor="middle" font-size="13" font-weight="700" fill="#12303b" font-family="system-ui,Segoe UI,Arial,sans-serif">H</text>
+      <text x="41" y="37" text-anchor="middle" font-size="13" font-weight="700" fill="#12303b" font-family="system-ui,Segoe UI,Arial,sans-serif">H</text>
+    </g>
+  </defs>
+  <rect width="760" height="340" rx="20" fill="#f3f9fc"/>
+  <g stroke="#1b7f79" stroke-width="4" stroke-dasharray="8 6" stroke-linecap="round">
+    <line x1="184" y1="116" x2="309" y2="154"/>
+    <line x1="384" y1="196" x2="509" y2="234"/>
+  </g>
+  <use href="#w" x="130" y="80"/>
+  <use href="#w" x="330" y="160"/>
+  <use href="#w" x="530" y="240"/>
+  <g font-family="system-ui,Segoe UI,Arial,sans-serif">
+    <text x="236" y="96" text-anchor="middle" font-size="14" font-weight="700" fill="#1b7f79">ponte de hidrogênio</text>
+    <text x="440" y="60" font-size="16" font-weight="700" fill="#12303b">Cada molécula de água pode formar</text>
+    <text x="440" y="82" font-size="16" font-weight="700" fill="#12303b">até 4 pontes de hidrogênio.</text>
+    <line x1="40" y1="288" x2="100" y2="288" stroke="#12303b" stroke-width="5" stroke-linecap="round"/>
+    <text x="114" y="293" font-size="15" fill="#12303b">ligação covalente: forte (≈ 460 kJ/mol)</text>
+    <line x1="40" y1="316" x2="100" y2="316" stroke="#1b7f79" stroke-width="4" stroke-dasharray="8 6" stroke-linecap="round"/>
+    <text x="114" y="321" font-size="15" fill="#12303b">ponte de hidrogênio: fraca (≈ 20 kJ/mol), mas numerosa</text>
+  </g>
+</svg>

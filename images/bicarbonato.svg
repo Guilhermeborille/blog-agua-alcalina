@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" role="img" aria-labelledby="t">
+  <title id="t">Bicarbonato de sódio: ligação iônica entre Na⁺ e o íon bicarbonato, com ligações covalentes internas</title>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#12303b"/></marker>
+  </defs>
+  <rect width="760" height="360" rx="20" fill="#f6f1ff"/>
+  <g font-family="system-ui,Segoe UI,Arial,sans-serif" fill="#12303b">
+    <circle cx="110" cy="160" r="42" fill="#e9dcff" stroke="#6b3e98" stroke-width="4"/>
+    <text x="110" y="169" text-anchor="middle" font-size="26" font-weight="700">Na⁺</text>
+    <line x1="158" y1="160" x2="322" y2="160" stroke="#12303b" stroke-width="3" stroke-dasharray="8 6" marker-start="url(#ar)" marker-end="url(#ar)"/>
+    <text x="240" y="136" text-anchor="middle" font-size="15" font-weight="700">ligação iônica</text>
+    <text x="240" y="186" text-anchor="middle" font-size="13">atração eletrostática</text>
+    <text x="520" y="28" text-anchor="middle" font-size="15" font-weight="700">íon bicarbonato (HCO₃⁻)</text>
+    <rect x="330" y="40" width="380" height="226" rx="24" fill="#fff" stroke="#2f6fb5" stroke-width="3" stroke-dasharray="8 6"/>
+    <!-- C=O -->
+    <line x1="514" y1="130" x2="514" y2="98" stroke="#12303b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="526" y1="130" x2="526" y2="98" stroke="#12303b" stroke-width="3" stroke-linecap="round"/>
+    <text x="520" y="88" text-anchor="middle" font-size="24" font-weight="700" fill="#e4572e">O</text>
+    <!-- C–OH e C–O⁻ -->
+    <line x1="508" y1="166" x2="462" y2="208" stroke="#12303b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="532" y1="166" x2="578" y2="208" stroke="#12303b" stroke-width="3" stroke-linecap="round"/>
+    <text x="520" y="158" text-anchor="middle" font-size="26" font-weight="700">C</text>
+    <text x="438" y="232" text-anchor="middle" font-size="24" font-weight="700" fill="#e4572e">HO</text>
+    <text x="604" y="232" text-anchor="middle" font-size="24" font-weight="700" fill="#e4572e">O⁻</text>
+    <text x="520" y="256" text-anchor="middle" font-size="13" fill="#2f6fb5" font-weight="700">ligações covalentes</text>
+    <text x="380" y="305" text-anchor="middle" font-size="16" font-weight="700">NaHCO₃ → Na⁺ + HCO₃⁻  (dissolve em água)</text>
+    <text x="380" y="334" text-anchor="middle" font-size="16">HCO₃⁻ + H⁺ → H₂CO₃ → CO₂ + H₂O  (consome ácido)</text>
+  </g>
+</svg>

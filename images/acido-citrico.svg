@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" role="img" aria-labelledby="t">
+  <title id="t">Fórmula estrutural do ácido cítrico com três grupos carboxila e uma hidroxila</title>
+  <rect width="720" height="380" rx="20" fill="#fffdf2"/>
+  <g font-family="system-ui,Segoe UI,Arial,sans-serif" fill="#12303b">
+    <text x="30" y="42" font-size="22" font-weight="700">Ácido cítrico · C₆H₈O₇</text>
+    <!-- destaques -->
+    <rect x="38" y="140" width="104" height="40" rx="10" fill="#fde0d6" stroke="#e4572e" stroke-width="2"/>
+    <rect x="578" y="140" width="104" height="40" rx="10" fill="#fde0d6" stroke="#e4572e" stroke-width="2"/>
+    <rect x="308" y="240" width="104" height="40" rx="10" fill="#fde0d6" stroke="#e4572e" stroke-width="2"/>
+    <rect x="328" y="62" width="64" height="40" rx="10" fill="#dbeafb" stroke="#2f6fb5" stroke-width="2"/>
+    <!-- ligações -->
+    <g stroke="#12303b" stroke-width="3" stroke-linecap="round">
+      <line x1="146" y1="165" x2="200" y2="165"/>
+      <line x1="250" y1="165" x2="347" y2="165"/>
+      <line x1="373" y1="165" x2="470" y2="165"/>
+      <line x1="520" y1="165" x2="574" y2="165"/>
+      <line x1="360" y1="150" x2="360" y2="106"/>
+      <line x1="360" y1="180" x2="360" y2="236"/>
+    </g>
+    <!-- átomos / grupos -->
+    <g font-size="22" font-weight="700" text-anchor="middle">
+      <text x="90" y="172">HOOC</text>
+      <text x="225" y="172">CH₂</text>
+      <text x="360" y="173" font-size="26">C</text>
+      <text x="495" y="172">CH₂</text>
+      <text x="630" y="172">COOH</text>
+      <text x="360" y="90">OH</text>
+      <text x="360" y="267">COOH</text>
+    </g>
+    <text x="404" y="88" font-size="14" fill="#2f6fb5" font-weight="700">grupo –OH (hidroxila)</text>
+    <text x="432" y="262" font-size="14" font-weight="700" fill="#e4572e">Três grupos –COOH (rosa) doam H⁺:</text>
+    <text x="432" y="283" font-size="14">pKa₁ 3,13 · pKa₂ 4,76 · pKa₃ 6,40</text>
+    <text x="360" y="352" text-anchor="middle" font-size="16">–COOH  ⇌  –COO⁻ + H⁺   (é esse H⁺ que acidifica a água)</text>
+  </g>
+</svg>

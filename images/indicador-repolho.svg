@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 290" role="img" aria-labelledby="t">
+  <title id="t">Seis tubos com suco de repolho roxo em cores diferentes, do vermelho (pH 2) ao verde-amarelado (pH 12)</title>
+  <rect width="720" height="290" rx="20" fill="#ffffff"/>
+  <g font-family="system-ui,Segoe UI,Arial,sans-serif" fill="#12303b" text-anchor="middle">
+    <text x="360" y="34" font-size="18" font-weight="700">Indicador natural: suco de repolho roxo</text>
+    <g transform="translate(67 58)"><path d="M0 0 L0 130 A23 23 0 0 0 46 130 L46 0" fill="#fff" fill-opacity=".5" stroke="#12303b" stroke-width="3"/><path d="M1.5 40 L1.5 130 A21.5 21.5 0 0 0 44.5 130 L44.5 40 Z" fill="#d9314f"/><rect x="-5" y="-4" width="56" height="8" rx="4" fill="#12303b"/></g>
+    <g transform="translate(175 58)"><path d="M0 0 L0 130 A23 23 0 0 0 46 130 L46 0" fill="#fff" fill-opacity=".5" stroke="#12303b" stroke-width="3"/><path d="M1.5 40 L1.5 130 A21.5 21.5 0 0 0 44.5 130 L44.5 40 Z" fill="#b4479b"/><rect x="-5" y="-4" width="56" height="8" rx="4" fill="#12303b"/></g>
+    <g transform="translate(283 58)"><path d="M0 0 L0 130 A23 23 0 0 0 46 130 L46 0" fill="#fff" fill-opacity=".5" stroke="#12303b" stroke-width="3"/><path d="M1.5 40 L1.5 130 A21.5 21.5 0 0 0 44.5 130 L44.5 40 Z" fill="#7a52b8"/><rect x="-5" y="-4" width="56" height="8" rx="4" fill="#12303b"/></g>
+    <g transform="translate(391 58)"><path d="M0 0 L0 130 A23 23 0 0 0 46 130 L46 0" fill="#fff" fill-opacity=".5" stroke="#12303b" stroke-width="3"/><path d="M1.5 40 L1.5 130 A21.5 21.5 0 0 0 44.5 130 L44.5 40 Z" fill="#4b6fd1"/><rect x="-5" y="-4" width="56" height="8" rx="4" fill="#12303b"/></g>
+    <g transform="translate(499 58)"><path d="M0 0 L0 130 A23 23 0 0 0 46 130 L46 0" fill="#fff" fill-opacity=".5" stroke="#12303b" stroke-width="3"/><path d="M1.5 40 L1.5 130 A21.5 21.5 0 0 0 44.5 130 L44.5 40 Z" fill="#2fa59a"/><rect x="-5" y="-4" width="56" height="8" rx="4" fill="#12303b"/></g>
+    <g transform="translate(607 58)"><path d="M0 0 L0 130 A23 23 0 0 0 46 130 L46 0" fill="#fff" fill-opacity=".5" stroke="#12303b" stroke-width="3"/><path d="M1.5 40 L1.5 130 A21.5 21.5 0 0 0 44.5 130 L44.5 40 Z" fill="#c9cf3d"/><rect x="-5" y="-4" width="56" height="8" rx="4" fill="#12303b"/></g>
+    <g font-size="16" font-weight="700">
+      <text x="90" y="244">pH 2</text><text x="198" y="244">pH 4</text><text x="306" y="244">pH 6</text><text x="414" y="244">pH 8</text><text x="522" y="244">pH 10</text><text x="630" y="244">pH 12</text>
+    </g>
+    <g font-size="13" fill="#53666d">
+      <text x="90" y="264">vermelho</text><text x="198" y="264">púrpura</text><text x="306" y="264">violeta</text><text x="414" y="264">azul</text><text x="522" y="264">verde-azulado</text><text x="630" y="264">verde-amarelado</text>
+    </g>
+  </g>
+</svg>
